@@ -1,15 +1,67 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="fe37a746-cf8b-405c-9b59-70ce9f2df2a2" name="Changes" comment="" />
+    <list default="true" id="fe37a746-cf8b-405c-9b59-70ce9f2df2a2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/djTest1/main/static/main/css/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djTest1/main/static/main/img/1s.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djTest1/main/templates/main/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djTest1/main/templates/main/layoute.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djTest1/main/templates/main/nav.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djTest1/main/templates/main/new.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djTest1/news/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djTest1/news/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djTest1/news/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djTest1/news/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djTest1/news/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djTest1/news/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djTest1/news/templates/news/news.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djTest1/news/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djTest1/news/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djTest1/news/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/WebDjProject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/WebDjProject.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/djTest1/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/djTest1/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/djTest1/djTest1/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/djTest1/djTest1/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/djTest1/djTest1/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/djTest1/djTest1/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/djTest1/main/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/djTest1/main/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/djTest1/main/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/djTest1/main/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/djTest1/main/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/djTest1/main/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;anspec&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/anspec/WebDjProject.git&quot;,
+    &quot;accountId&quot;: &quot;a3a26f48-93d5-4cd0-8d65-121dcb37e98f&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="33CmCTfulDLhyBb5HZNiTnfPeVY" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -17,10 +69,25 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "Python.main.executor": "Run",
+    "Python.urls.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "D:/Ans/GitHub/WebDjProject",
+    "settings.editor.selected.configurable": "preferences.keymap"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Ans\GitHub\WebDjProject\djTest1\main\static\main\img" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Ans\GitHub\WebDjProject\djTest1\main" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -37,5 +104,16 @@
       <updated>1758829300948</updated>
     </task>
     <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
